@@ -1,0 +1,5 @@
+node_modules
+# open-music-api-web-server.pem
+.env
+.prod.env
+.prettierrc
